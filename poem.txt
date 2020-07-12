@@ -2,6 +2,7 @@ The rainbow colors are:
 
 Purple
 Red
+Pink
 Yellow 
 Green
 Bleu
